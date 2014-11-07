@@ -1,7 +1,0 @@
-wepa/controllers/AnimalPictureController.class
-wepa/ServletInitializer.class
-wepa/service/AnimalPictureService.class
-wepa/domain/User.class
-wepa/domain/AnimalPicture.class
-wepa/Application.class
-wepa/repository/AnimalPictureRepository.class
